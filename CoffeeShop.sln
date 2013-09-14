@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop", "CoffeeShop\CoffeeShop.csproj", "{04612E50-A692-4A83-B3E3-37BAE72B8707}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{65A06171-7222-4C7C-A9AD-A3065F6281F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{04612E50-A692-4A83-B3E3-37BAE72B8707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04612E50-A692-4A83-B3E3-37BAE72B8707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04612E50-A692-4A83-B3E3-37BAE72B8707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A06171-7222-4C7C-A9AD-A3065F6281F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A06171-7222-4C7C-A9AD-A3065F6281F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A06171-7222-4C7C-A9AD-A3065F6281F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A06171-7222-4C7C-A9AD-A3065F6281F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
